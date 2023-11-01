@@ -1,0 +1,10 @@
+django==4.2
+mysqlclient
+djangorestframework_simplejwt
+djangorestframework
+markdown
+django-filter
+django-environ==0.10.0
+django-cors-headers
+requests==2.29.0
+Pillow
